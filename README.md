@@ -17,7 +17,7 @@ Result-e/
 ├── 04-anomaly_detection.py
 │   └── Generates 4 English charts (price trend, volume bar, daily range, volume heatmap) with detected anomalies highlighted.
 │
-├── 全国碳市场2026年Q1-Q2配额明细_异常检测.csv
+├── National Carbon Market 2026 Mar-Apr Allowance Details.csv
 │   └── Aggregated daily quota data (CEA25/24/23/22/21/19-20 × listing大宗协议) with anomaly labels.
 ├── cea_all_final.csv
 │   └── Full CEA historical data (2021–present, 10 columns).
